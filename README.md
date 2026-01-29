@@ -3,7 +3,7 @@
 
 Kaito Shiku, Ichika Seo, Tetsuya Matoba, Rissei Hino, Yasuhiro Nakano, Ryoma Bise
 
-![Alt Text](./Overview.pdf)
+![Alt Text](./Overview.png)
 
 ## 📑 Abstract
 In this paper, we present the first attempt to **estimate the necessity of debulking coronary artery calcifications from computed tomography (CT) images**.
