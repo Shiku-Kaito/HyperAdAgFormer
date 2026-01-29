@@ -40,8 +40,7 @@ python ./script/main.py --module "HyperAdAgFormer" --is_evaluation 1
 If you find this repository helpful, please consider citing:
 
 ```
-
-}
+Coming soon...
 ```
 
 ※ Note: This citation will be updated with the official ISBI 2026 proceedings entry once it.
