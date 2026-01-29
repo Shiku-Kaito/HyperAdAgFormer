@@ -44,3 +44,8 @@ Coming soon...
 ```
 
 ※ Note: This citation will be updated with the official ISBI 2026 proceedings entry once it.
+
+
+# ✏️ Author
+@ Shiku Kaito  
+・ Contact: kaito.shiku@human.ait.kyushu-u.ac.jp
