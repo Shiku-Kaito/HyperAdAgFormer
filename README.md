@@ -1,4 +1,4 @@
-# Hypernetwork-based Adaptive Aggregation Transformer (HyperAdAgFormer) 🧬
+# Hypernetwork-based Adaptive Aggregation Transformer (HyperAdAgFormer) 
 "Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking", in **ISBI2026** 🎉🎉!
 
 Kaito Shiku, Ichika Seo, Tetsuya Matoba, Rissei Hino, Yasuhiro Nakano, Ryoma Bise
@@ -23,7 +23,7 @@ conda env create -n HyperAdAgFormer -f HyperAdAgFormer.yml
 conda activate HyperAdAgFormer
 ```
 
-## 🚀 Training the DkGSB
+## 🚀 Training the HyperAdAgFormer
 You can train our proposed **HyperAdAgFormer** using the following command.
 ```
 python ./script/main.py --module "HyperAdAgFormer" --is_evaluation 0
