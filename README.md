@@ -6,10 +6,10 @@ Kaito Shiku, Ichika Seo, Tetsuya Matoba, Rissei Hino, Yasuhiro Nakano, Ryoma Bis
 ![Alt Text](./Overview.png)
 
 ## 📑 Abstract
-In this paper, we present the first attempt to **estimate the necessity of debulking coronary artery calcifications from computed tomography (CT) images**.
+In this paper, we present the first attempt to estimate the necessity of debulking coronary artery calcifications from computed tomography (CT) images.
 We formulate this task as a Multiple-instance Learning (MIL) problem.
 The difficulty of this task lies in that **physicians adjust their focus and decision criteria for device usage according to tabular data** representing each patient’s condition.
-To address this issue, we propose a **hypernetwork-based adaptive aggregation transformer (HyperAdAgFormer), which adaptively modifies the feature aggregation strategy for each patient based on tabular data through a hypernetwork**.
+To address this issue, we propose a **hypernetwork-based adaptive aggregation transformer (HyperAdAgFormer)**, which adaptively modifies the feature aggregation strategy for each patient based on tabular data through a hypernetwork.
 The experiments using the clinical dataset demonstrated the effectiveness of HyperAdAgFormer.
 
 ## 🛠️ Updates / Maintenance
