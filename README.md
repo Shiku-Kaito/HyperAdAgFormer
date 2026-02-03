@@ -41,7 +41,12 @@ python ./script/main.py --module "HyperAdAgFormer" --is_evaluation 1
 If you find this repository helpful, please consider citing:
 
 ```
-Coming soon...
+@article{shiku2026hypernetwork,
+  title={Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking},
+  author={Shiku, Kaito and Seo, Ichika and Matoba, Tetsuya and Hino, Rissei and Nakano, Yasuhiro and Bise, Ryoma},
+  journal={arXiv preprint arXiv:2601.21479},
+  year={2026}
+}
 ```
 
 ※ Note: This citation will be updated with the official ISBI 2026 proceedings entry once it.
