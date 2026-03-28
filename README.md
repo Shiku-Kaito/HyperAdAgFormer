@@ -1,4 +1,4 @@
-# Hypernetwork-based Adaptive Aggregation Transformer (HyperAdAgFormer) 🚀
+# Hypernetwork-based Adaptive Aggregation Transformer (HyperAdAgFormer) 
 "Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking", in **ISBI2026** 🎉🎉!
 **[arxiv](https://arxiv.org/abs/2601.21479)**
 
