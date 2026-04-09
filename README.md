@@ -14,7 +14,7 @@ To address this issue, we propose a **hypernetwork-based adaptive aggregation tr
 The experiments using the clinical dataset demonstrated the effectiveness of HyperAdAgFormer.
 
 ## 🛠️ Updates / Maintenance
-2025/02/03: opened this repository.
+2025/02/03: Repository opened.
 
 ## ⬇️ Installation
 To set up their environment, please run:  
